@@ -12,20 +12,7 @@ The JavaScript Code Quality Validator is a Node.js module that helps you ensure 
 - **Customizable Rules:** Configure and extend rules to match your project's specific requirements.
 - **Support for Different ECMAScript Versions:** Specify the ECMAScript version for validation.
 
-## Installation
-
-You can install the module using npm:
-
-```sh
-npm install js-code-quality-validator
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contributing
-If you'd like to contribute to this project, please read our Contribution Guidelines.
-
-Acknowledgments
+# Acknowledgments
 Inspired by the need for high-quality code
 Thanks to Acorn for the parser
 
@@ -48,6 +35,8 @@ Thanks to Acorn for the parser
 <br><br>
 
 Will be maintaining this as I have time, thanks for your understanding!
+
+If you'd like to contribute to this project, please read our Contribution Guidelines.
 
 # License
 [MIT © Victor Lima](https://github.com/victorlim4/victory-theme/blob/main/LICENSE)
