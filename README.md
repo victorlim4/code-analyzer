@@ -13,8 +13,8 @@ The JavaScript Code Quality Validator is a Node.js module that helps you ensure 
 - **Support for Different ECMAScript Versions:** Specify the ECMAScript version for validation.
 
 # Acknowledgments
-Inspired by the need for high-quality code
-Thanks to Acorn for the parser
+- Inspired by the need for high-quality code.
+- Thanks to Acorn for the parser.
 
 # Contributors
 <table>
