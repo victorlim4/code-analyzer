@@ -1,13 +1,11 @@
 import { analyzer } from "./src/analyzer.js";
+import fs from "fs"
 
-const example = `
-  var x = 10;
-  let y = 20;
-  const z = 30;
+const fileName = process.argv[2];
 
-  for(let i = 0; i < y; i++) {
-    let str = "victor" + "lima"
-  }
-`;
+if (!fileName) {
+  console.error('Indique um arquivo para ser analizado: yarn analyze example.js');
+  process.exit(1);
+}
 
-analyzer(example);
+analyzer(fs.readFileSync(fileName, 'utf8'));
