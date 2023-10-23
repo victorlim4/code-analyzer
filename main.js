@@ -1,6 +1,6 @@
-import { analyze } from "./analyze.js";
+import { analyzer } from "./src/analyzer.js";
 
-const jsCode = `
+const example = `
   var x = 10;
   let y = 20;
   const z = 30;
@@ -10,4 +10,4 @@ const jsCode = `
   }
 `;
 
-analyze(jsCode);
+analyzer(example);
