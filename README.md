@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The JavaScript Code Quality Validator is a Node.js module that helps you ensure the quality of your JavaScript code. It goes beyond basic linting to perform various checks for code quality, coding standards, and performance optimization.
+A Node.js module that helps you ensure the quality of your JavaScript code. It goes beyond basic linting to perform various checks for code quality, coding standards, and performance optimization.
 
 ## Features
 
@@ -36,7 +36,4 @@ The JavaScript Code Quality Validator is a Node.js module that helps you ensure 
 <br><br>
 Will be maintaining this as I have time, thanks for your understanding!
 
-If you'd like to contribute to this project, please read our Contribution Guidelines.
-
-# License
-[MIT © Victor Lima](https://github.com/victorlim4/victory-theme/blob/main/LICENSE)
+If you'd like to contribute to this project, contact me and fork that repository.
