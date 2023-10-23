@@ -1,4 +1,4 @@
-# JavaScript Code Quality Validator
+# JavaScript Code Quality Analyzer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,8 +13,9 @@ The JavaScript Code Quality Validator is a Node.js module that helps you ensure 
 - **Support for Different ECMAScript Versions:** Specify the ECMAScript version for validation.
 
 # Acknowledgments
-Inspired by the need for high-quality code
-Thanks to Acorn for the parser
+
+- Inspired by the need for high-quality code.
+- Thanks to Acorn for the parser.
 
 # Contributors
 <table>
@@ -33,7 +34,6 @@ Thanks to Acorn for the parser
   </tbody>
 </table>
 <br><br>
-
 Will be maintaining this as I have time, thanks for your understanding!
 
 If you'd like to contribute to this project, please read our Contribution Guidelines.
